@@ -1,0 +1,59 @@
+/* Liner gradient */
+/* 
+.box{
+    width: 400px;
+    height: 500px;
+    margin-left: 200px;
+    border-radius: 50px;
+    background-image: linear-gradient(to right, red, blue,yellow,black,aqua);
+    background-image: linear-gradient(#2eb4d0,#47c94e,#768e77);
+} */
+
+/* Radial Gradient */
+/* 
+.box-1{
+    width: 300px;
+    height: 400px;
+    margin-left: 200px; 
+    margin-top: 150px;
+    
+    background-image: radial-gradient( red, blue,yellow,black,aqua);
+    background-image: radial-gradient( circle, red 5%, green 25%, blue 60%);
+    background-image: radial-gradient(farthest-side at 60% 55%, blue, green, yellow, black);
+    background-image: radial-gradient(closest-side at 60% 55%, blue, green, yellow, black);
+}
+.box-2{
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+    margin-top: -300px;
+    margin-left: 700px;
+    background: radial-gradient( rgba(34,193,195,1) 0%, rgba(251, 255, 0, 0.869) 39%, rgb(153, 194, 211) 100%);
+    opacity: 0.1;
+} */
+.box-3{
+    width: 40%;
+    height: 600px;
+    border: 5px solid black;
+    background-image: url(./98319506.jpg);
+    background-repeat: no-repeat, repeat;;
+}
+.img2{
+    width: 800px;
+    height: 800px;
+    border-radius: 20%;
+}
+.img3{
+    width: 40%;
+    height: 700px;
+    border-radius: 200px;
+    margin-left: 100px;
+    border: 5px solid black;
+    padding: 30px;
+    background-image: linear-gradient(to right, red, blue,yellow,black,aqua);
+
+}
+.fa-telegram{
+
+
+}
